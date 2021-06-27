@@ -1,6 +1,0 @@
-{
-  "name": "ember-app-demo",
-  "dependencies": {
-    "mousetrap": "^1.6.1"
-  }
-}
